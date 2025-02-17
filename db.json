@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "id": "dfa7",
+      "name": "New Balance",
+      "contact": "Contact: Tom G. Email:nb@mail.com",
+      "location": "Boston, MA",
+      "applied": true
+    },
+    {
+      "id": "25e5",
+      "name": "Boston Red Sox",
+      "contact": "Contact: Jim H. Email: @mail.com",
+      "location": "Boston, MA",
+      "applied": false
+    },
+    {
+      "id": "5178",
+      "name": "Amazon",
+      "contact": "amazon@mail.com",
+      "location": "Seattle, WA",
+      "applied": false
+    },
+    {
+      "id": "7189",
+      "name": "Nike",
+      "contact": "555-5555",
+      "location": "Portland, OR",
+      "applied": true
+    },
+    {
+      "id": "3691",
+      "name": "MongoDB",
+      "contact": "544-444-4444",
+      "location": "LA",
+      "applied": false
+    }
+  ]
+}
